@@ -16,7 +16,9 @@ End the program
 ## Program:
 
 #Program to find the rank of a matrix.
-#Developed by: S.Dhayalaprabu 
+
+#Developed by: S.Dhayalaprabu
+
 #RegisterNumber:24006289
 ```
 import numpy as np
