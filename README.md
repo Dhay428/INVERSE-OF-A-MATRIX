@@ -27,7 +27,7 @@ result=np.linalg.matrix_rank(A)
 print(result)
 ```
 ## Output:
-![Screenshot 2024-12-12 220330](https://github.com/user-attachments/assets/2ef7849a-3f53-4dd2-af6c-7457b58e1383)
+![output](exp-3.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
